@@ -1,0 +1,49 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+}
+.home{
+    height: 100vh;    
+    background-image: url(img1.jpg);
+    background-size: cover;
+    overflow-x: hidden;
+   
+}
+.home-heading2{
+    font-size: 6rem;
+    font-weight: 400;
+}
+.query{
+    height: auto;
+    width: auto;
+   
+}
+/* @media (max-width: 600px) {
+    #carouselExampleCaptions {
+      display: none; 
+    }
+  } */
+
+  .quality{
+    height: 60vh;
+    background-image: url(backimg2.jpg);
+    background-size: cover;
+
+  }
+  .sign{
+    height: 80px;
+    width: auto;
+  }
+  .icon{
+    font-size: 5rem;
+  }
+  .footer{
+    
+    height: 15vh;
+    position: static;
+    bottom: 0px;
+  }
+  .img8{
+    height: 300px;
+    width: 100px;
+  }
